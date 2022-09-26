@@ -1,0 +1,15 @@
+D:\Cp2-EAD\Checkpoint2\bin\Debug\net6.0\Checkpoint2.exe
+D:\Cp2-EAD\Checkpoint2\bin\Debug\net6.0\Checkpoint2.deps.json
+D:\Cp2-EAD\Checkpoint2\bin\Debug\net6.0\Checkpoint2.runtimeconfig.json
+D:\Cp2-EAD\Checkpoint2\bin\Debug\net6.0\Checkpoint2.dll
+D:\Cp2-EAD\Checkpoint2\bin\Debug\net6.0\Checkpoint2.pdb
+D:\Cp2-EAD\Checkpoint2\obj\Debug\net6.0\Checkpoint2.csproj.AssemblyReference.cache
+D:\Cp2-EAD\Checkpoint2\obj\Debug\net6.0\Checkpoint2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cp2-EAD\Checkpoint2\obj\Debug\net6.0\Checkpoint2.AssemblyInfoInputs.cache
+D:\Cp2-EAD\Checkpoint2\obj\Debug\net6.0\Checkpoint2.AssemblyInfo.cs
+D:\Cp2-EAD\Checkpoint2\obj\Debug\net6.0\Checkpoint2.csproj.CoreCompileInputs.cache
+D:\Cp2-EAD\Checkpoint2\obj\Debug\net6.0\Checkpoint2.dll
+D:\Cp2-EAD\Checkpoint2\obj\Debug\net6.0\refint\Checkpoint2.dll
+D:\Cp2-EAD\Checkpoint2\obj\Debug\net6.0\Checkpoint2.pdb
+D:\Cp2-EAD\Checkpoint2\obj\Debug\net6.0\Checkpoint2.genruntimeconfig.cache
+D:\Cp2-EAD\Checkpoint2\obj\Debug\net6.0\ref\Checkpoint2.dll
